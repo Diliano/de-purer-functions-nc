@@ -1,3 +1,5 @@
-# de-purer-functions
+# Data Engineering Bootcamp - Pure Functions
 
-For instructions for this sprint, head to: https://l2c.northcoders.com/courses/de2-fun/purer-functions
+## Overview
+
+This repository contains work completed as part of the Pure Functions Sprint during my Data Engineering Bootcamp. 
